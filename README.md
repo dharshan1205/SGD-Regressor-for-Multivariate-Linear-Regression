@@ -113,8 +113,8 @@ print("SGDRegressor MSE:", mean_squared_error(y_test, sgd_pred))
 
 
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: Dharshan Sanjay.D 
-RegisterNumber:  212225040070
+Developed by: Dharshan R
+RegisterNumber:  212224230060
 
 ```
 
